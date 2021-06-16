@@ -5,7 +5,7 @@ from sys import platform
 import os
 
 
-class webScrape(commands.Cog):
+class webscrape(commands.Cog):
         __author__=["Diddly", "Wtitsaduck"]
         __version__=[1.0]
     @commands.command(usage=["<URL>"])
